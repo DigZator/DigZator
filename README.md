@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DigZator
-- 👀 I’m interested in Reinforcement Learning
-- 🌱 I’m currently learning MARL
+- 👀 I’m interested in Reinforcement Learning and Multi Robot Systems
+- 🌱 I’m currently learning Multi-Agent Reinforcement Learning, Swarm Robotics and Material Informatics.
 
 [![DigZator's github stats](https://github-readme-stats.vercel.app/api?username=DigZator&show_icons=true&theme=radical)](https://github.com/DigZator/github-readme-stats)
 
